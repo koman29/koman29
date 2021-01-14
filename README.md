@@ -9,8 +9,6 @@
   <img align="left" alt="Koman's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=)cristikoman29.cristikoman29
-
 <br />
 
 Hi, I'm [Cristi Koman!](#), a passionate self-taught Full Stack Web Developer 🚀 from Romania.
