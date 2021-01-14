@@ -10,6 +10,7 @@
 </a>
 
 <br />
+<br>
 
 Hi, I'm [Cristi Koman!](#), a passionate self-taught Full Stack Web Developer 🚀 from Romania.
 
