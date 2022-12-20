@@ -10,7 +10,7 @@ I am detail-oriented and committed to producing high-quality work, and I always 
 
 With my skills and expertise, I can help you achieve your goals and bring your vision to life. I look forward to working with you and helping you succeed online. Please don't hesitate to contact me with any questions or to discuss your project in more detail.
 
-How to reach me: [@CristiKoman](https://twitter.com/CristiKoman);
+How to reach me: [@cristi_koman](https://twitter.com/cristi_koman);
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
